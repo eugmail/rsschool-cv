@@ -1,14 +1,14 @@
-###**Evgeniy Dronov**
+### Evgeniy Dronov
 ---
-### Contacts:**
+### Contacts
 - Email: eugmail@yandex.ru
-- Discord: EugD#7332
-- Skype: ddwarf_
+- Discord: EvgD#7332
+
 ---
-### **About Me**
+### About Me
 ---
 I work as a software developer for production automation.
-### **Skills**
+### Skills
 ---
 * C++
 * Python, Django
@@ -17,7 +17,7 @@ I work as a software developer for production automation.
 * SQL (MS SQL Server, MySQL)
 * Version control: Subversion, Git
 
-### **Code examples**
+### Code examples
 ---
 ```
 def create_phone_number(n):
@@ -26,5 +26,15 @@ def create_phone_number(n):
 print (create_phone_number([0,1,2,3,4,5,6,7,8,9]))
 ```
 
+### Work experience
+* 
+### Education
+---
+* NATIONAL RESEARCH NUCLEAR UNIVERSITY MEPHI
+
+### Languages
+---
+* Russian - native speaker
+* English - A1
 
 

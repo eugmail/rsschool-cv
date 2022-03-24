@@ -28,7 +28,7 @@ print (create_phone_number([0,1,2,3,4,5,6,7,8,9]))
 
 ### Work experience
 ---
-* [https://eugmail.github.io/rsschool-cv/cv](rsschool-cv/cv)
+* Train project rsschool-cv/cv
 
 ### Education
 ---

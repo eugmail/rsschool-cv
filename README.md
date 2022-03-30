@@ -1,2 +1,2 @@
 # rsschool-cv
-Training repository RS-school
+https://eugmail.github.io/rsschool-cv/
